@@ -37,15 +37,20 @@ Since only Thomas High was the only school that required adjustments, other scho
 ![new_ths_school_summary](https://github.com/junepwk/school-district-analysis/blob/main/Resources/new_data/new_ths_school_summary.png)
 
 ### Thomas High School’s performance VS. Other Schools
-The updated results showed that Thomas High School retained their 2nd place position out of 15 schools in the district.
+The updated results showed that Thomas High School retained their 2nd place position out of 15 schools in the district.  Therefore, there are no effect to Thomas High School's performance relative to the other schools.
 
 *Original Top 5 Schools
 ![top_five](https://github.com/junepwk/school-district-analysis/blob/main/Resources/original_data/top_five.png)
 *Updated Top 5 Schools
 ![new_top_five](https://github.com/junepwk/school-district-analysis/blob/main/Resources/new_data/new_top_five.png)
 
-### How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
+### Math and Reading Scores by Grade
+The only changes in the results when sorting scores based on grades were the replacement of the ninth grade's average score value with NaN.  This also applies for the reading category so to avoid clustering the README, only the math results will be shown. The reading scores by grades can be viewed [here](https://github.com/junepwk/school-district-analysis/tree/main/Resources).
+
+* Original vs. Updated Math Scores by Grades  
+
+![math_by_grade](https://github.com/junepwk/school-district-analysis/blob/main/Resources/original_data/math_by_grade.png) ![new_math_by_grade](https://github.com/junepwk/school-district-analysis/blob/main/Resources/new_data/new_math_by_grade.png)
+
 Scores by school spending
 Scores by school size
 Scores by school type
