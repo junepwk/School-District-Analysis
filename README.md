@@ -51,8 +51,21 @@ The only changes in the results when sorting scores based on grades were the rep
 
 ![math_by_grade](https://github.com/junepwk/school-district-analysis/blob/main/Resources/original_data/math_by_grade.png) ![new_math_by_grade](https://github.com/junepwk/school-district-analysis/blob/main/Resources/new_data/new_math_by_grade.png)
 
-Scores by school spending
-Scores by school size
-Scores by school type
+## Additional Analysis
+
+### Scores by school spending
+Thomas High School's budget per student is $638 which falls into the $630-644 range that's highlighted below.  There were no changes in the data after refactoring the code.
+
+![new_score_spending](https://github.com/junepwk/school-district-analysis/blob/main/Resources/new_data/new_score_spending.png)
+
+### Scores by school size
+Thomas High School's total student count is 1,635 which falls into the medium range highlighted below. There were no changes in the data after refactoring the code.
+
+![new_score_size](https://github.com/junepwk/school-district-analysis/blob/main/Resources/new_data/new_score_size.png)
+
+### Scores by school type
+Thomas High School is a charter school and similarly to the results above, there were no changes in the data after nulling their ninth grade's scores.
+
+![new_score_type](https://github.com/junepwk/school-district-analysis/blob/main/Resources/new_data/new_score_type.png)
 
 ## Summary
