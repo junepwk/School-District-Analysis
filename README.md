@@ -37,7 +37,7 @@ Since only Thomas High was the only school that required adjustments, other scho
 ![new_ths_school_summary](https://github.com/junepwk/school-district-analysis/blob/main/Resources/new_data/new_ths_school_summary.png)
 
 ### Thomas High School’s performance VS. Other Schools
-The updated results showed that Thomas High School retained their 2nd place position out of 15 schools in the district.  Therefore, there are no effect to Thomas High School's performance relative to the other schools.
+The updated results showed that Thomas High School retained their 2nd place position out of 15 schools in the district.  Therefore, there were no effect to Thomas High School's performance relative to the other schools.
 
 *Original Top 5 Schools
 ![top_five](https://github.com/junepwk/school-district-analysis/blob/main/Resources/original_data/top_five.png)
@@ -69,3 +69,4 @@ Thomas High School is a charter school and similarly to the results above, there
 ![new_score_type](https://github.com/junepwk/school-district-analysis/blob/main/Resources/new_data/new_score_type.png)
 
 ## Summary
+There were no major changes in the updated school district analysis after Thomas High School ninth grade's scores were replaced with null values. The district summary, as stated earlier in the analysis, experienced minor decrease in the percentages of students passing math, reading and overall passing rate.  Additionally, the average math score for the entire district went down by 0.1%, whereas, the average reading score remained unphased.  The school summary had similar results except that the average reading scores for Thomas High School experienced a slight increase after replacing the scores.
