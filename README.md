@@ -45,8 +45,18 @@ The task was to assist in analyzing data on school fundings and student's standa
 	8. A data summary for each school
 
 ## Getting Started
-- Data Source: students_complete.csv, schools_complete.csv
-- Software: Jupyter Notebook 6.3.0, Python 3.7.10
+<details>
+  <summary><b>Resources</b></summary>
+  
+* Data Sources: 
+    * [students_complete.csv](https://github.com/junepwk/School-District-Analysis/blob/main/Resources/students_complete.csv)
+    * [schools_complete.csv](https://github.com/junepwk/School-District-Analysis/blob/main/Resources/schools_complete.csv)
+* Softwares: 
+    * Jupyter Notebook 6.3.0
+    * Python 3.7.10
+- Libraries: 
+    - Pandas
+</details>
 
 ### Prerequisites
 * Install [Anaconda](https://www.anaconda.com/) in order to use Jupyter Notebook, an open-source web application.
