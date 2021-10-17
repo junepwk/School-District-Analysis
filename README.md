@@ -55,6 +55,7 @@ The task was to assist in analyzing data on school fundings and student's standa
     * Python 3.7.10
 - Libraries: 
     - Pandas
+    - Numpy
 </details>
 
 ### Installation
