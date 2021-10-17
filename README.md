@@ -6,7 +6,7 @@
       <a href="#overview">Overview</a>
     </li>
     <li>
-      <a href="#resources">Resources</a>
+      <a href="#getting-started">Getting Started</a>
     </li>
     <li><a href="#results">Results</a>
        <ul>
@@ -40,11 +40,11 @@ The task was to assist in analyzing data on school fundings and student's standa
 	7. A district summary
 	8. A data summary for each school
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Resources
+## Getting Started
 - Data Source: students_complete.csv, schools_complete.csv
 - Software: Jupyter Notebook 6.3.0, Python 3.7.10
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Results
 ### District Summary
