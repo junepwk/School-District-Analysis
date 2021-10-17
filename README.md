@@ -51,6 +51,8 @@ The task was to assist in analyzing data on school fundings and student's standa
 ### Prerequisites
 * Install [Anaconda](https://www.anaconda.com/) in order to use Jupyter Notebook, an open-source web application.
 
+	<img src="https://media.giphy.com/media/WSkpcsraBf0q6a3joy/giphy.gif" width="330" height="330" />
+
 After installation, check the version of the software to confirm it's installed correctly. 
 1) Open Anaconda Prompt
 2) After the prompt, ```>```, type and run ```conda --version```
