@@ -8,7 +8,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-      <li><a href="#prerequisites">Prerequisites</a></li>
       <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -58,7 +57,7 @@ The task was to assist in analyzing data on school fundings and student's standa
     - Pandas
 </details>
 
-### Prerequisites
+### Installation
 * Install [Anaconda](https://www.anaconda.com/) in order to use Jupyter Notebook, an open-source web application.
 
 	<img src="https://media.giphy.com/media/WSkpcsraBf0q6a3joy/giphy.gif" width="320" height="320"/>
@@ -68,6 +67,7 @@ After installation, check the version of the software to confirm it's installed 
 2) After the prompt, ```>```, type and run ```conda --version```
 	- Make sure it returns ```conda 4.8.3``` or later. 
 3) If you need to update your Anaconda to the latest version, type and run ```conda update conda```
+4) To open Jupyter Notebook in the Anaconda prompt, type ```jupyter notebook```
 
 
 
