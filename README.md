@@ -7,6 +7,10 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
+      <ul>
+      <li><a href="#prerequisites">Prerequisites</a></li>
+      <li><a href="#installation">Installation</a></li>
+      </ul>
     </li>
     <li><a href="#results">Results</a>
        <ul>
@@ -43,6 +47,17 @@ The task was to assist in analyzing data on school fundings and student's standa
 ## Getting Started
 - Data Source: students_complete.csv, schools_complete.csv
 - Software: Jupyter Notebook 6.3.0, Python 3.7.10
+
+### Prerequisites
+* Install [Anaconda](https://www.anaconda.com/) in order to use Jupyter Notebook, an open-source web application.
+
+After installation, check the version of the software to confirm it's installed correctly. 
+1) Open Anaconda Prompt
+2) After the prompt, ```>```, type and run ```conda --version```
+	- Make sure it returns ```conda 4.8.3``` or later. 
+3) If you need to update your Anaconda to the latest version, type and run ```conda update conda```
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
