@@ -1,10 +1,9 @@
 # PyCitySchools with Pandas
 
-<details>
-  <summary>Table of Contents</summary>
+**Table of Contents**
   <ol>
     <li>
-      <a href="#overview-of-project">Overview of Project</a>
+      <a href="#overview">Overview</a>
     </li>
     <li>
       <a href="#resources">Resources</a>
@@ -29,7 +28,7 @@
   </ol>
 </details>
 
-## Overview of Project
+## Overview
 The task was to assist in analyzing data on school fundings and student's standardized test scores.  This analysis will provide the district school board with insight regarding school's budget allocation and priorities, as well as, assist the board in budget setting for the next school year. However, there has been evidence of academic dishonesty in regards to Thomas High School's ninth grade reading and math grades with NaNs. The solution was to refactor the code by replacing the Thomas High School's ninth grade standardized test scores and perform the same analysis over the new dataset. The chief data scientist for the city school districts had requested the following data for the analysis:
 
 	1. Total number of schools, students, and budget
